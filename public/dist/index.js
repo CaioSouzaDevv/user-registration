@@ -1,0 +1,1 @@
+(()=>{var n;(n=document.getElementById("content")).innerHTML="<h1>Olá Mundo</h1>",n.innerHTML+="<h1>Olá Mundo</h1>",n.innerHTML+="<h1>Olá Mundo</h1>",n.innerHTML+="<h1>Olá Mundo</h1>",n.innerHTML+="<h1>Olá Mundo</h1>"})();
